@@ -8,7 +8,7 @@ departement that the town is in, then one for the academie that that
 departement is in. Uses geo.api.gouv.fr along with some conversion tables
 for departements taken from Wikipedia.
 
-)(note that Caen and Rouen have since been merged into Normandie.)_
+_(Note that Caen and Rouen have since been merged into Normandie.)_
 
 # Quick install
 
